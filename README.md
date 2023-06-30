@@ -129,6 +129,21 @@ model.fit(xs, ys, epochs=500)
 print(model.predict([10.0]))
 ```
 
+## Colab Notebook Files
+
+[1. Your 1st Neural Network: TensorFlow Hello World](https://colab.research.google.com/drive/1NJJMPdd_sHYG3D84_Jo3AtzqLDGJL35C?usp=sharing)
+
+[2. Fashion MNIST: Simple Neural Network](https://colab.research.google.com/drive/1PYppXSmepg_qQOyZEi6dB6bxNcwGTEQv?usp=sharing)
+
+[3. Callbacks](https://colab.research.google.com/drive/1M23VC7b5vCa9D1f0jvUqN1z8VeAX2C3w?usp=sharing)
+
+[4. Fashion MNIST: How CNNs process image data](https://colab.research.google.com/drive/1beui00TQkDnd9XhENcW61CPBAfiP4FeO?usp=sharing)
+
+[5. Kaggle Cats vs. Dogs dataset](https://colab.research.google.com/drive/1jFunzJyPCP1XUrxEcyV9cRPk3J6IoEu8?usp=sharing)
+
+[6. Data Augmentation](https://colab.research.google.com/drive/1CcDEKmAhm2KKOOsAYIrxz88VRHkIotAo?usp=sharing)
+
+[7. Transfer Learning in computer vision](https://colab.research.google.com/drive/1_KJmUyjeVjHWERo7A8WJfogMUuInGcU8?usp=sharing)
 
 
 
